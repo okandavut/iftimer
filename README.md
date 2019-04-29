@@ -2,7 +2,7 @@
 
 _Counts how much time left to eat something. ( It's for Ramadan )_
 
-![Iftimer Application](https://resmim.net/f/5jCOwK.png)
+![Iftimer Application](https://i.ibb.co/TqtB03N/Screenshot-1.png)
 
 ---
 
