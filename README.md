@@ -1,4 +1,4 @@
-## **Iftimer**
+## **iftimer**
 
 _Counts how much time left to eat something. ( It's for Ramadan )_
 
